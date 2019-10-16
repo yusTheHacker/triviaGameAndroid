@@ -54,7 +54,12 @@ class GameFragment : Fragment() {
             Question(text = "Registers app with launcher?",
                     answers = listOf("intent-filter", "app-registry", "launcher-registry", "app-launcher")),
             Question(text = "Mark a layout for Data Binding?",
-                    answers = listOf("<layout>", "<binding>", "<data-binding>", "<dbinding>"))
+                    answers = listOf("<layout>", "<binding>", "<data-binding>", "<dbinding>")),
+            Question(text = "What is Manifest.xml in android?",
+                    answers = listOf( "It has all the information about an application",
+                             "It has information about layout in an application",
+                             "It has the information about activities in an application",
+                             "None of the above"))
     )
 
     lateinit var currentQuestion: Question

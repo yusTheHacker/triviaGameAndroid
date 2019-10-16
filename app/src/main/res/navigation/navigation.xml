@@ -26,10 +26,10 @@
         <action
             android:id="@+id/action_gameFragment_to_gameWonFragment"
             app:destination="@id/gameWonFragment"
-            app:enterAnim="@anim/slide_in_left"
-            app:exitAnim="@anim/slide_out_right"
-            app:popEnterAnim="@anim/slide_in_right"
-            app:popExitAnim="@anim/slide_out_left"
+            app:enterAnim="@anim/slide_left_up"
+            app:exitAnim="@anim/slide_right_down"
+            app:popEnterAnim="@anim/fade_in"
+            app:popExitAnim="@anim/fade_out"
             app:popUpTo="@+id/gameFragment"
             app:popUpToInclusive="true" />
         <action
