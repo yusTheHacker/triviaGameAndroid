@@ -32,7 +32,9 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This week was very challenging. 
+Creating fragments, linking them, adding animations, making conditional navigation, adding back stack manipulation.
+I learned a lot of Android programming this two weeks, and every one of them was a real challenge.
 
 ## License
 
