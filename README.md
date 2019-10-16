@@ -1,35 +1,34 @@
-# <name of app>
+# Android Trivia
 
 An Android application that allows you to play a trivia game.
 
-Submitted by: <name>
+Submitted by: Yusley Rosabal Espinosa
 
-Time spent: <time>
+Time spent: 6h
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] Implement multiple screens using fragments.
-* [ ] Add navigation and conditional navigation between fragments.
-* [ ] Add support for the Up Button.
-* [ ] Add a menu.
-* [ ] Add public sharing of trivia results with an Intent.
-* [ ] Add a navigation drawer.
-* [ ] Disable drawer swiping using navigation listener.
-* [ ] Add animations.
+* [X] Implement multiple screens using fragments.
+* [X] Add navigation and conditional navigation between fragments.
+* [X] Add support for the Up Button.
+* [X] Add a menu.
+* [X] Add public sharing of trivia results with an Intent.
+* [X] Add a navigation drawer.
+* [X] Disable drawer swiping using navigation listener.
+* [X] Add animations.
 
 The following **additional** features are implemented:
 
-* [ ] Add new questions to the trivia game.
-* [ ] Add new categories to the trivia game.
-* [ ] Add new animations.
+* [X] Add new questions to the trivia game.
+* [X] Add new animations.
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='name_of_file.gif' title='Android Trivia animated demo' alt='Android Trivia demo' />
+<img src='Android_Trivia_app_demo.gif' title='Android Trivia animated demo' alt='Android Trivia demo' />
 
 ## Notes
 
@@ -37,7 +36,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-Copyright 2019 <name>
+Copyright 2019 Yusley Rosabal Espinosa
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
